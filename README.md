@@ -1,125 +1,101 @@
-<!-- HEADER -->
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B%2C+I'm+Aries+Gomez+Lacson;Senior+AI+%2F+LLM+Application+Engineer+%F0%9F%A4%96;15%2B+Years+in+Software+Engineering;RAG+%7C+LLM+Apps+%7C+Semantic+Search+%7C+FastAPI" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=150&section=header&text=Aries%20Gomez%20Lacson&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Senior%20AI%20%2F%20LLM%20Application%20Engineer%20%C2%B7%20Philippines&descAlignY=75&descSize=18" />
 
-<br>
+</div>
 
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0077B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Repositories-03045E?style=for-the-badge&logo=github&logoColor=white" /></a>
+## 👋 Hey, I'm Aries
 
-<br><br>
+Senior **AI / LLM Application Engineer** based in **Pampanga, Philippines 🇵🇭**  
+I have **15+ years of software engineering experience**, with recent production focus on **RAG systems, semantic retrieval, document intelligence, prompt orchestration, LLM evaluation, and AI-powered data workflows**.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+views&color=00B4D8&style=flat" alt="Profile views" />
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="Followers" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=social" alt="Stars" /></a>
+I build AI systems that connect real business data with reliable application workflows: retrieval pipelines, structured output validation, source-grounded LLM responses, async enrichment jobs, evaluation loops, and production-ready backend services.
 
-<br>
+My background combines **AI engineering, backend architecture, search systems, cloud-native delivery, and full-stack product development**.
 
-<sub><b>🔔 Follow for:</b> RAG systems · LLM application architecture · semantic search · FastAPI backends · production AI workflows</sub>
+---
+
+## 🧠 Core AI / LLM Stack
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge&logo=llama&logoColor=white)
+
+</div>
+
+<div align="left">
+
+![RAG](https://img.shields.io/badge/RAG_Systems-0f766e?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-4f46e5?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-7c3aed?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-2563eb?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-d97706?style=for-the-badge)
+![Prompt Orchestration](https://img.shields.io/badge/Prompt_Orchestration-be123c?style=for-the-badge)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 🛠️ Engineering Stack
 
-```yaml
-name: Aries Gomez Lacson
-role: Senior AI / LLM Application Engineer
-location: Minalin, Pampanga, Philippines 🇵🇭
-experience: 15+ years in software engineering
-current_focus: Production AI, LLM applications, RAG, semantic retrieval, and document intelligence
+<div align="left">
 
-summary:
-  - Senior engineer with deep backend, AI, and data workflow experience
-  - Built production RAG systems, LLM-assisted enrichment services, and document-processing pipelines
-  - Strong background in Python, FastAPI, TypeScript, Node.js, Java, PostgreSQL, Redis, and cloud-native systems
-  - Experienced in prompt orchestration, structured output validation, source grounding, LLM evaluation, and AI observability
-  - Comfortable leading architecture reviews, mentoring engineers, improving reliability, and shipping production systems
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-verticals:
-  - AI / LLM Applications
-  - Knowledge Graphs
-  - Ecommerce Search
-  - Enterprise Platforms
-  - Finance / Telecom
-  - Retail / POS
-  - Healthcare / Logistics
-  - Public-sector Systems
+</div>
 
-stack:
-  ai:
-    - OpenAI API
-    - Azure OpenAI
-    - Claude API
-    - LangChain
-    - LlamaIndex
-    - RAG
-    - Embeddings
-    - Vector Search
-    - Semantic Search
-    - Prompt Orchestration
-    - LLM Evaluation
+<div align="left">
 
-  backend:
-    - Python
-    - FastAPI
-    - Node.js
-    - TypeScript
-    - Java
-    - Spring Boot
-    - REST APIs
-    - GraphQL
-    - Microservices
-    - Async Workers
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-FFCA28?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
 
-  data:
-    - PostgreSQL
-    - MongoDB
-    - MySQL
-    - Redis
-    - Elasticsearch
-    - OpenSearch
-    - Pinecone
-    - Weaviate
-    - pgvector
+</div>
 
-  frontend:
-    - React
-    - Next.js
-    - TypeScript
-    - JavaScript
-    - Tailwind CSS
-    - Dashboard Interfaces
-    - Data-heavy UIs
+<div align="left">
 
-  cloud_devops:
-    - AWS
-    - Azure
-    - Docker
-    - Kubernetes
-    - GitHub Actions
-    - GitLab CI/CD
-    - Terraform
-    - CloudWatch
-    - Application Insights
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-currently:
-  building: "Reliable LLM applications with retrieval, evaluation, validation, and observability"
-  improving: "RAG quality, prompt regression testing, structured outputs, and production AI reliability"
-  open_to: "Senior AI Engineer, LLM Application Engineer, Backend AI Engineer, and AI Platform roles"
+</div>
 
-ask_me_about:
-  - LLM Applications
-  - RAG Systems
-  - Semantic Search
-  - Document Processing
-  - FastAPI
-  - Prompt Orchestration
-  - Backend Architecture
-  - Production AI Reliability
+---
+
+## 🚀 Featured Engineering Focus
+
+| Area | What I Build | Technologies |
+|------|-------------|--------------|
+| 🧠 **RAG & Semantic Retrieval** | Retrieval pipelines, metadata-aware search, chunking strategies, embeddings, vector search, and source-grounded LLM answers | Python · FastAPI · LangChain · LlamaIndex · Pinecone · Weaviate · pgvector |
+| 📄 **Document Intelligence** | Document parsing, summarization, classification, entity extraction, structured output generation, and validation workflows | OpenAI API · Azure OpenAI · Claude API · JSON Schema · async workers |
+| 🔍 **AI Evaluation & Reliability** | Golden datasets, retrieval-quality checks, prompt regression testing, human-in-the-loop review, fallback handling, and hallucination reduction | LLM evals · prompt versioning · observability · structured logging |
+| ⚙️ **Backend & Data Systems** | APIs, microservices, background jobs, event-driven workflows, caching, search APIs, and production monitoring | Node.js · TypeScript · Java · Spring Boot · PostgreSQL · Redis |
+| 🖥️ **Full-Stack Product Delivery** | AI-enabled dashboards, admin portals, search interfaces, reporting tools, and data-heavy user workflows | React · Next.js · TypeScript · Tailwind CSS · REST · GraphQL |
+
+---
+
+## 💼 Career Snapshot
+
+```text
+Diffbot                 AI / LLM Application Engineer     Jun 2022 – Mar 2026
+Iflexion                Senior Software Engineer          Sep 2020 – May 2022
+Software Mind           Backend Engineer                  Jun 2017 – Jul 2020
+Exist Software Labs     Fullstack Developer               Aug 2014 – Apr 2017
+Pointwest Technologies  Web Developer                     Oct 2010 – May 2014
